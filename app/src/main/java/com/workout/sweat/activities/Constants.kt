@@ -3,6 +3,7 @@ package com.workout.sweat.activities
 //import com.SWEAT.R
 import com.workout.sweat.R
 import java.util.*
+import kotlin.collections.ArrayList
 
 /**
  * Constant Class where you can add the constant values of the project.

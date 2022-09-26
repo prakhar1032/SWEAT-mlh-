@@ -46,11 +46,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        llHistory.setOnClickListener {
-            // Launching the History Activity
-            val intent = Intent(this, HistoryActivity::class.java)
-            startActivity(intent)
-        }
+
 
         //for ads
         MobileAds.initialize(this) {}

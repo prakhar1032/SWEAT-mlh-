@@ -249,14 +249,14 @@ class BMIActivity : AppCompatActivity() {
             ) <= 0
         ) {
             bmiLabel = "Overweight"
-            bmiDescription = "Oops! You really need to take care of your body! Workout maybe!"
+            bmiDescription = "Oops! You really need to take care of your body! Start Workout!"
         } else if (java.lang.Float.compare(bmi, 30f) > 0 && java.lang.Float.compare(
                 bmi,
                 35f
             ) <= 0
         ) {
             bmiLabel = "Obese Class | (Moderately obese)"
-            bmiDescription = "Oops! You really need to take care of your body! Workout maybe!"
+            bmiDescription = "Oops! You really need to take care of your body! Start Workout!"
         } else if (java.lang.Float.compare(bmi, 35f) > 0 && java.lang.Float.compare(
                 bmi,
                 40f

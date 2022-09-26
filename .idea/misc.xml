@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProject/Sweat/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.231" />
+        <entry key="..\:/AndroidProject/Sweat/app/src/main/res/layout/activity_bmi.xml" value="0.36102564102564105" />
+        <entry key="..\:/AndroidProject/Sweat/app/src/main/res/layout/activity_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProject/Sweat/app/src/main/res/layout/activity_exercise.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProject/Sweat/app/src/main/res/layout/activity_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProject/Sweat/app/src/main/res/layout/activity_intro.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidProject/Sweat/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidProjects/SWEAT/app/src/main/res/drawable/circular_progress_bar.xml" value="0.26614583333333336" />
         <entry key="..\:/AndroidProjects/SWEAT/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.2703125" />
         <entry key="..\:/AndroidProjects/SWEAT/app/src/main/res/layout/activity_bmi.xml" value="0.33" />
